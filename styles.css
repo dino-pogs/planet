@@ -9,6 +9,7 @@
 }
 body {
     background-color: #8ba888;
+    overflow: hidden;
 }
 h1 {
     padding-top: 2vh;
